@@ -1,2 +1,17 @@
 # Motor-detection
-A system of Motor detection.
+Motor-detection,一个电机运行时的检测系统，值得一试。
+
+
+------------------------------
+## 快速开始
+
+### Windows
+下载最新的固件烧录进ESP32，连接上其AP，WIFI默认SSID为**Motor-detection**;也可以下载Arduino源码，自行编译。
+常见问题请查阅：https://docs.hardwork.icu
+
+### 生态
+| 项目      | 状态 | 描述 |
+| ----------- | ---- | ---- |
+| Android APP |待开发|配套Android上位机|
+| 微信小程序 |待开发|配套小程序上位机|
+|Windows exe|待开发|配套Windows上位机|
