@@ -6,7 +6,7 @@ Motor-detection,一个电机运行时的检测系统，值得一试。
 ## 快速开始
 
 ### Windows
-下载最新的固件烧录进ESP32，连接上其AP，WIFI默认SSID为**Motor-detection**;也可以下载Arduino源码，自行编译。
+下载最新的固件烧录进ESP32，连接上其AP，WIFI默认SSID为**Motor-detection**;也可以下载MCU源码，自行编译。
 常见问题请查阅：https://docs.hardwork.icu
 
 ### 生态
